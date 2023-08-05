@@ -10,3 +10,5 @@ const template = `
 Цена: ${price} долларов`;
 
 console.log(template);
+console.log(Number('10-1'))
+console.log(Boolean('5') + 9)
